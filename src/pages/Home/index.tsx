@@ -1,10 +1,10 @@
-
+import {Head } from '../../components/Head';
 
 export const Home = () => {
 
   return (
     <div>
-      <h1>Hello bithc</h1>
+      <Head/>
     </div>
   );
 };
