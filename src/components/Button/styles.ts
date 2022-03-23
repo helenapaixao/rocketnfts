@@ -9,7 +9,8 @@ export const Container = styled.button`
   height: 50px;
   width: 230px;
   font-weight: 700;
-  margin-top: 16px;
+  margin-top: 57px;
+  margin-right: 81px;
   font-family: "Montserrat", sans-serif;
   transition: background-color 0.2s;
   &:hover {

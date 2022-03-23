@@ -15,6 +15,7 @@ export const Container = styled.header`
     margin-left: 10px;
     margin-top: 57px;
     transition: color 0.2s;
+    
     &:hover {
       color: #fff;
     }
@@ -79,8 +80,8 @@ export const Content = styled.div`
     line-height: 61px;
     width: 596px;
     height: 246px;
-    margin-top: 90px;
-    margin-left: 82px;
+    margin-top: 91px;
+    margin-left: 82px;  
     color: #ffffff;
   }
 `;
